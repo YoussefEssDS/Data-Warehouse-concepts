@@ -1,2 +1,2 @@
-This is the the SQL Scripts for creating the Databases and the structure of the dimensions (Customer,Product & Date) and 
+This is the SQL Scripts for creating the Databases and the structure of the dimensions (Customer,Product & Date) and 
 the fact (InternetSales) tables.
